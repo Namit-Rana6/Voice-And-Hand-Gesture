@@ -1,4 +1,4 @@
-# HandsFreeX
+# Unbound
 
 > **Accessible Digital Control System — Empowering hands-free interaction through voice commands and head gestures.**
 
@@ -6,7 +6,7 @@
 
 ## 🚀 Overview
 
-**HandsFreeX** is a hands-free digital control platform that allows users to operate a computer using only **voice commands** and **head gestures**.
+**Unbound** is a hands-free digital control platform that allows users to operate a computer using only **voice commands** and **head gestures**.
 
 Built to bridge the accessibility gap, it empowers individuals with **motor impairments**, **upper limb disabilities**, **temporary injuries**, or **fatigue** to navigate, communicate, and interact — independently and confidently.
 
@@ -61,7 +61,7 @@ Built to bridge the accessibility gap, it empowers individuals with **motor impa
 
 ---
 
-## 🌟 Why HandsFreeX?
+## 🌟 Why Unbound?
 
 - **Minimal Setup:** Just a webcam and a microphone.
 - **Real-Time Performance:** No lag, no bulky hardware.
@@ -89,6 +89,6 @@ Built to bridge the accessibility gap, it empowers individuals with **motor impa
 
 ---
 
-## ✨ HandsFreeX: **Control the Web. Without Hands.**
+## ✨ Unbound: **Control the Web. Without Hands.**
 
 ---
