@@ -77,25 +77,15 @@ Built to bridge the accessibility gap, it empowers individuals with **motor impa
 - 🎯 Improve personalization (predictive shortcuts, recommendations)
 - 🦮 Accessibility upgrades (blind-friendly audio navigation)
 
----
-
-## 💬 Setup Instructions (Optional)
-
-> _[Add if you want]_  
-> _Clone the repository and install required Python dependencies listed in `requirements.txt`._
-> ```
-> pip install -r requirements.txt
-> python voice_assistant.py
-> ```
 
 ---
 
-## 🤝 Team
+## 🤝 Team - OINK
 
-- [Your Name 1] - [Role/Contribution]
-- [Your Name 2] - [Role/Contribution]
+- Namit Rana - 
+- Khushboo Kataria - 
 
-*Built with ❤️ at [Hackathon Name] 2024.*
+*Built with ❤️ at Geekverse IEEE GGSIPU 2024.*
 
 ---
 
